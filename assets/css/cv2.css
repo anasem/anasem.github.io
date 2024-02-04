@@ -1,0 +1,68 @@
+h1 {
+	color: #424549;
+	text-align: left;
+	font-size: 3em;
+	line-height: 1em;
+	position: relative;
+	margin-top: 2em;
+	left: 23.5%;
+	padding: .1rem 1rem;
+	text-shadow: 0 0 BLACK;
+	font-family:"Roboto Condensed", sans-serif;
+}
+
+#content {
+	background-color: white;
+	width: 925px;
+	margin-right:auto;
+	margin-left:auto;
+	padding-top: 2em;
+	padding-left:1em;
+	padding-right:1em;
+	padding-bottom:2em;
+	box-shadow: 0px 4px 10px -3px;
+}
+
+.masthead {
+ position:relative;
+ border-bottom:1px solid #f2f3f3;
+ -webkit-animation:intro 0.3s both;
+ animation:intro 0.3s both;
+ -webkit-animation-delay:0.15s;
+ animation-delay:0.15s;
+ z-index:20;
+ box-sizing: border-box;
+}
+
+div.masthead ul {
+	left:auto;
+}
+
+.masthead__inner-wrap {
+    max-width: 925px;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    font-size:18px;
+    padding: 1em 1em 1em;
+}
+
+.masthead a {
+	font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+}
+
+p code {
+    position: absolute;
+    left: -12%;
+    background: transparent;
+    border: 0px;
+    box-shadow: 0 0px 0px;
+}
+
+P {
+    position: relative;
+    left: 25%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 68%;
+}
